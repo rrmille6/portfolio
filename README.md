@@ -1,4 +1,4 @@
-# portfolio
+# Miller - Data Science Portfolio
 Data Science Portfolio
 
 ## Phoenix Weather Analysis - 110 Degree days: Python 3
