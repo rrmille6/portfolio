@@ -1,4 +1,4 @@
-# Miller - Data Science Portfolio
+# Data Science Portfolio
 Data Science Portfolio
 
 ## [Phoenix Weather Analysis - 110 Degree days: Python 3](https://github.com/rymiller0/portfolio/blob/main/Phx%20Weather%20Analysis.ipynb)
