@@ -2,6 +2,9 @@
 Data Science Portfolio
 
 ## [Phoenix Weather Analysis - 110 Degree days: Python 3](https://github.com/rymiller0/portfolio/blob/main/Phx%20Weather%20Analysis.ipynb)
+* View Analysis Here:
+* [](https://github.com/rymiller0/rymiller0.github.io/blob/main/Phx%20Weather%20Analysis.ipynb)
+  
 * Analysis performed in response to an article written in 2023, by accuweather.com, to determine probability and significance of 110 degree days in Phoenix, Arizona.
 [Record heatwave in Phoenix could end with a bang] (https://www.accuweather.com/en/weather-forecasts/record-heat-wave-in-phoenix-could-end-with-a-bang/1564900) 
 * calculated descriptive statistics with Pandas library
