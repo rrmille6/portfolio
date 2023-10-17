@@ -1,6 +1,15 @@
 # Porfolio: Ryan R. Miller
 Data Science & Data Visualization
 
+## [Facility Location Problem: Minimize Mileage](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
+* View Script (with example) Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
+  
+  
+* Classic Supply Chain/Logistics optimization problem; determine best possible location for warehouse(s)/DC(s), based on customer location and estimated shipment volume inputs.
+* Utilizes Python SciPy optimization and minimization modules to optimize (minimize) total distance. 
+* Script uses GPS Coordinates of each customer destination AND accounts for estimated shipment volume to each respective location. Higher shipment volume = higher gravity towards planned facility.
+* Output = GPS coordinates of location(s) for warehouse/DC assest(s).
+  
 ## [Phoenix Weather Analysis - 110 Degree days: Python 3](https://github.com/rymiller0/portfolio/blob/main/Phx%20Weather%20Analysis.ipynb)
 * View Analysis Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Phx%20Weather%20Analysis.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Phx%20Weather%20Analysis.ipynb)
   ![image](https://github.com/rymiller0/rymiller0.github.io/assets/75280886/53d27f45-c7f4-4a12-96cc-945fe0272b73)
