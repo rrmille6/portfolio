@@ -3,6 +3,7 @@ Data Science & Data Visualization
 
 ## [Facility Location Problem: Minimize Mileage](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
 * View Script (with example) Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
+  
 ![image](/images/FLP_image%20solution.png)
 
 * Classic Supply Chain/Logistics optimization problem; determine best possible location for warehouse(s)/DC(s), based on customer location and estimated shipment volume inputs.
@@ -20,6 +21,7 @@ Data Science & Data Visualization
 * Visualized data to determine trends and entice other questions with matplotlib and seaborn.
 * Used scipy library and descriptive statistcs to build cumulative density function to determine probability of observing more than # of days obserseved above 110 per year.
 * Utilized statsmodel.api to find line of best fit (liner regression) to mark trends.
+  
 --------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------
 ## [Tableau Repository](https://public.tableau.com/app/profile/millermiller)
@@ -42,7 +44,8 @@ Link: [https://public.tableau.com/app/profile/millermiller/viz/2023FantasyFootba
 ![image](https://github.com/rymiller0/rymiller0.github.io/assets/75280886/3112e531-3fec-4ecf-b991-62fed89cf9a0)
 * Created metrics to determine player consistency, such as % weeks above certain point thresholds, weekly standard deviation, average standard deviation compared to league average, average weekly point differtial compared to league average, and a propritary consistency blended score.
 * Blended average draft position by platform, and calculated average point differential compared to top players by position to find actionable discrepancies and make data driven picks.
-* Dashboard used in real-time fantasy football draft to maximize/optimze draft picks for best consistency. 
+* Dashboard used in real-time fantasy football draft to maximize/optimze draft picks for best consistency.
+  
 --------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------
 
