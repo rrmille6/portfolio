@@ -21,8 +21,7 @@ Data Science & Data Visualization
 * Visualized data to determine trends and entice other questions with matplotlib and seaborn.
 * Used scipy library and descriptive statistcs to build cumulative density function to determine probability of observing more than # of days obserseved above 110 per year.
 * Utilized statsmodel.api to find line of best fit (liner regression) to mark trends.
-__________________________________________________________________________________________________________________
-__________________________________________________________________________________________________________________
+
 ## [Tableau Repository](https://public.tableau.com/app/profile/millermiller)
 Link: [https://public.tableau.com/app/profile/millermiller](https://public.tableau.com/app/profile/millermiller)
 ![image](https://github.com/rymiller0/rymiller0.github.io/assets/75280886/3724d055-4d0f-4a58-8ffc-5ba55caf3103)
@@ -44,7 +43,5 @@ Link: [https://public.tableau.com/app/profile/millermiller/viz/2023FantasyFootba
 * Created metrics to determine player consistency, such as % weeks above certain point thresholds, weekly standard deviation, average standard deviation compared to league average, average weekly point differtial compared to league average, and a propritary consistency blended score.
 * Blended average draft position by platform, and calculated average point differential compared to top players by position to find actionable discrepancies and make data driven picks.
 * Dashboard used in real-time fantasy football draft to maximize/optimze draft picks for best consistency.
-__________________________________________________________________________________________________________________
-__________________________________________________________________________________________________________________
 
 
