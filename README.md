@@ -3,7 +3,7 @@ Data Science & Data Visualization
 
 ## [Facility Location Problem: Minimize Mileage](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
 * View Script (with example) Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
-![](https://github.com/rymiller0/rymiller0.github.io/blob/main/images/FLP_image%20solution.png)
+![image](https://github.com/rymiller0/rymiller0.github.io/blob/main/images/FLP_image%20solution.png)
 
 * Classic Supply Chain/Logistics optimization problem; determine best possible location for warehouse(s)/DC(s), based on customer location and estimated shipment volume inputs.
 * Utilizes Python SciPy optimization and minimization modules to optimize (minimize) total distance. 
