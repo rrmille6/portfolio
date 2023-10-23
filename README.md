@@ -1,8 +1,8 @@
 # Porfolio: Ryan R. Miller
 Data Science & Data Visualization
 
-## [Facility Location Problem: Minimize Mileage](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
-* View Script (with example) Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb)
+## [Facility Location Problem: Minimize Mileage](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage-Copy1.ipynb)
+* View Script (with example) Here: [https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage.ipynb](https://github.com/rymiller0/rymiller0.github.io/blob/main/Facility%20Location%20Problem%20-%20FLP%20Minimize%20Mileage-Copy1.ipynb)
   
 ![image](/images/FLP_image%20solution.png)
 
